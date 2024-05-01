@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      abc: ["Archivo Black", "sans-serif"]
+    }
   },
   plugins: [],
 }
